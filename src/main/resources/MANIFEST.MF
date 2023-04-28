@@ -1,0 +1,5 @@
+Premain-Class: org.example.Main
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
+Can-Set-Native-Method-Prefix: true
+Implementation-Title: ClassLogger
