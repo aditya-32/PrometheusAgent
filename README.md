@@ -20,3 +20,5 @@ Sample config `java -javagent:<path/to/agent/jar> -jar <path/to/your/source/java
 
 Start Prometheus in local or using docker  and configure the end point to scrape metric in prometheus.yml config
 Setup Grafana in local and configure promentheus as data source to better visualsation.
+
+Note: This agent currently support application with one DispatchServlet. Please feel free to add feature and extend the functionality.
